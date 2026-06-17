@@ -1,4 +1,4 @@
-const CACHE="tatrai-2026-v6";
+const CACHE="tatrai-2026-v7";
 const CORE=["index.html","manifest.json","icon-192.png","icon-512.png"];
 const EXTRA=["wysoka-homole-biala-woda.gpx","teryho-chata.gpx","velicka-sliezsky-dom-roundtrip.gpx"];
 self.addEventListener("install",function(e){
